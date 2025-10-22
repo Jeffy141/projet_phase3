@@ -8,14 +8,14 @@ L'ensemble du pipeline est conçu pour fonctionner sans dépendances externes (p
 
 # 📂 Structure du projet
 ## 📁 projet_chicago_accidents/
-│
+
    ├── CPD_traffic_crashes-crashes-20240501.csv     # Données principales des accidents
    
    ├── CPD_traffic_crashes-vehicles-20240501.csv    # Données sur les véhicules impliqués
    
    ├── CPD_traffic_crashes-people-20240501.csv      # Données sur les personnes impliquées
    
-   ├── chicago_accidents_prediction.py              # Script principal (ce fichier)
+   ├── Projet_phase3.1(1).ipynb                     # Script principal (ce fichier)
    
    ├── README.md                                    # Documentation du projet
    
